@@ -13,4 +13,3 @@
 저장소에 대한 소개글을 작성합니다.
 
 ![인듀어런스호](./images/endurance.png)
-test
